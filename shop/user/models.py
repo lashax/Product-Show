@@ -45,4 +45,4 @@ class User(AbstractUser):
 
     class Meta:
         verbose_name = _('Customer')
-        verbose_name_plural = _('Customer')
+        verbose_name_plural = _('Customers')
